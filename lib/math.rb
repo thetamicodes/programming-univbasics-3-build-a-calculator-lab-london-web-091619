@@ -24,6 +24,6 @@ return result
 end
 
 def square_root(num)
-result = cmath.sqrt(num)
+result = CMath.sqrt(num)
 return result
 end
