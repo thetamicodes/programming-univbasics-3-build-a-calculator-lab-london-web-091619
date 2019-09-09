@@ -4,17 +4,17 @@ return result
 end
 
 def subtraction(num1, num2)
-num1 - num2
-puts
+result = num1 - num2
+return result
 end
 
 def division(num1, num2)
-num1 / num2
-return
+result = num1 / num2
+return result
 end
 
 def multiplication(num1, num2)
-num1 * num2
+result = num1 * num2
 return
 end
 
