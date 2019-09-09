@@ -24,6 +24,6 @@ return result
 end
 
 def square_root(num)
-num.sqrt
-return
+result = num.sqrt
+return result
 end
